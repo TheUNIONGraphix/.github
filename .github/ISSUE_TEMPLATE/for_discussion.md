@@ -2,10 +2,11 @@
 name: 토론 요청
 about: 기능/아이디어/문제에 대한 토론
 title: ''
-labels: question
+labels: ''
 assignees: ''
 
 ---
+
 ----
 
 ## About
@@ -24,4 +25,4 @@ assignees: ''
 <br>
 
 ## 자신의 의견 / 질문
-- 해당 주제에 대한 자신의 의견 or 질문사항 
+- 해당 주제에 대한 자신의 의견 or 질문사항
